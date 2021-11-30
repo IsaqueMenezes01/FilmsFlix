@@ -1,0 +1,107 @@
+body{
+  background-color: #1c1c1c;
+}
+lu li a {
+  color: white;
+}
+.carrossel {
+    width: 100%;
+    height: 500px;   
+}
+.alinhar{
+    max-width: 1300px;
+    font-family: gotham, arial, helvetica, sans-serif;
+    font-size: 18px;
+    padding: 0;
+    margin: 0 auto !important;
+}
+.categorias{
+  margin-top: 60px;
+  margin-left: 10px;
+  color: white;
+}
+span {
+    color: rgb(255, 255, 255);
+    font-size: 30px; 
+}   
+.img-fluid{
+  width: 250px;
+  height: 125px;
+}
+.img-fluid:hover{
+  transition: 2s;
+  opacity: 0.25;!important
+  color: #000;!important
+}
+.container{
+  width: 100%;
+}
+.banner{
+  margin-top: 30px;
+}
+.container1{
+  align-items: center;
+  width: 100%;
+  background-color: black;
+}
+.navbar{
+  margin-left: 60px;
+  font-size: 20px;
+}
+.navbar-brand{
+  font-size: 30px; 
+}
+
+.teste{
+  width: 200px;
+  height: 100px;
+}
+.endpage{
+  color: rgb(255, 255, 255);
+  margin-top: 60px;
+  width: 100%;
+  height: 100%;
+  padding: 0 !important;
+  background-color: rgb(95, 0, 0);
+  opacity: 0.5;
+  
+}
+#face,#twitter,#insta,#whatsapp {
+  
+  margin: 10px;
+  width: 30px;
+  height: 30px;
+  
+}
+
+.conteudo {
+    margin-top: 150px;
+    margin-bottom: 135px;
+    margin-right: 200px; 
+}
+#img {
+    /* margin-left: 130px; */
+    /* width: 350px;
+    height: 420px;
+    opacity: 0.50;!important */
+}
+.descricao {
+    color: white;
+}
+.fa-clock {
+    margin-left: 15px;
+}
+#video {
+    display: none;
+}
+.fa-chevron-right {
+    margin-left: 8px;
+}
+#ver-trailer:hover {
+    text-decoration: underline;
+}
+.teste1{
+  margin: 30px;
+  width: 200px;
+  height: 150px;
+}
